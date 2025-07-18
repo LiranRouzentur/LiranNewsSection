@@ -1,6 +1,7 @@
 Please refer to "News API Assignment - Liran Rouzentur.pdf" for the complete assignment answered requirements and all relevant details.
 
 ########################################################
+
 Azure triggerd Function app that fetches and processes financial news from Polygon.io API.
 
 
