@@ -52,7 +52,7 @@ Azure triggerd Function app that fetches and processes financial news from Polyg
 
 1. **Clone and navigate to project**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/LiranRouzentur/LiranNewsSection.git
    cd LiranNewsSection
    ```
 
